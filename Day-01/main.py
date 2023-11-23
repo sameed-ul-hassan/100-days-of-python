@@ -8,5 +8,5 @@ pet_name = input("What's your pet name? \n")
 # Add city and pet name to generate band name using f-strings
 print(f"Your band name could be {city} {pet_name}")
 # Or Concat city and pet names to generate brand name
-print("Your band name could be " + city + " " + pet_name)
+# print("Your band name could be " + city + " " + pet_name)
 
